@@ -1,4 +1,4 @@
-# Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
+# Tarea: COMPAÑEROS, Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
 ## 🎯 Objetivo
 Evaluar la capacidad para reconocer los elementos y herramientas que intervienen en el desarrollo de un programa informático. Esto incluye la diferenciación de los conceptos de código fuente, objeto y ejecutable, así como la clasificación de los lenguajes de programación (imperativos y declarativos).
